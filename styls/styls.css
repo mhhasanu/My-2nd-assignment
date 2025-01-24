@@ -1,0 +1,342 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+.quicksand-font {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+
+.display-flex{
+  display: flex;
+}
+
+div ul li{
+  list-style: none;
+  margin-right: 32px;
+}
+
+
+
+.nav-ber{
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 140px 20px 140px;
+
+
+}
+
+.school{
+  color: black;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.home{
+color: #FEA301;
+font-size: 1.3rem;
+font-weight: 700;
+}
+.about{
+color: #01ACFD;
+font-size: 1.3rem;
+font-weight: 500;
+}
+.facilities{
+color: #05D4DF;
+font-size: 1.3rem;
+font-weight: 500;
+}
+.admission{
+color: #5D58EF;
+font-size: 1.3rem;
+font-weight: 500;
+}
+.button{
+  color: white;
+  background-color: orange;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-radius: 12px;
+  height: 40px;
+  width: 150px;
+  border: none;
+  padding: 0%;
+}
+
+
+
+
+.banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 140px 100px 140px;
+}
+.empowering{
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: orange;
+}
+.students{
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: black;
+}
+.towards{
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: skyblue;
+}
+.banner-button{
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-radius: 12px;
+  height: 40px;
+  width: 150px;
+  border: none;
+  padding: 0%;
+  background-color: black
+  
+}
+.banner-title{
+  padding: 120px 50px 120px 0px;
+}
+.banner-img{
+  padding: 0px 0px 0px 50px;
+}
+
+
+
+
+.card-div{
+  background-image: url(/assets/bg.png);
+  height: 100%;
+  width: 100%;
+}
+.card{
+  justify-content: space-between;
+  align-items: center;
+  height: 480px;
+  width: 1160px;
+  padding: 200px 140px;
+}
+
+.text{
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+  gap: 80px;
+}
+.kinder{ 
+height: 470px;
+width: 360px;
+background-color: #DEF5FF;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
+.card-kinder{
+  font-size: 1.5rem;
+font-weight: 700;
+color: #202020;
+
+}
+.text-kinder{
+  font-size: 1rem;
+  font-weight: 500;
+  color: #808080;
+}
+.button-2{
+  font-size: 1rem;
+  font-weight: 700;
+  color: #64C8FF;
+}
+.button-3{
+  font-size: 1rem;
+  font-weight: 700;
+  color: #F0AA00;
+}
+.button-4{
+  font-size: 1rem;
+  font-weight: 700;
+  color: #8700FF;
+}
+.elementary-school{
+  height: 470px;
+width: 360px;
+background-color: #FFF4DC;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
+.middle{
+  height: 470px;
+width: 360px;
+background-color: #F2E8FF;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
+.ball{
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ball-2{
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ball-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ball-item:hover{
+  background-color: red;
+}
+
+
+
+.our-stories{
+background-image: url(/assets/bg.png);
+height: 1018px;
+width: 1440px;
+}
+.stories{
+  font-size: 2.8rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.new-section{
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.beautiful{
+  height: 630px;
+  width: 540px;
+}
+
+.find-out{
+  height: 630px;
+  width: 540px;
+  gap: 20px;
+}
+
+.card1-img{
+  border-radius: 10px;
+}
+
+.card-title-1{
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: black;
+}
+
+.card-9{
+  font-size: 1rem;
+  font-weight: 500;
+  color: #666666;
+}
+.card-header{
+  font-size: 1rem;
+  font-weight: 700;
+  color: black;
+}
+
+.card-button{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  border-radius: 15px;
+  position: absolute;
+  left: 50%;
+
+}
+.footer{
+  justify-content: space-around;
+  align-items: center;
+  height: 520px;
+  width: 100%;
+  background-color: #01ACFD;
+  float: inline-end;
+  
+
+}
+.kids-img{
+height: 82px;
+width: 85px;
+}
+.kids-education{
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+.home-li{
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.keep-in{
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+
+
+
+@media screen and (max-width: 576px){
+  .nav-ber, .div ul, .title, .nav-link, .card{
+    flex-direction: column;
+  }
+  .nav-ber{
+    align-items: center;
+    padding: 0px;
+  }
+  .banner{
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  }
+  .ball-item{
+    display: none;
+  }
+  .card{
+    justify-content: center;
+    align-items: center;
+    padding-left: 0px;
+    padding-right: 0px;
+
+  }
+  .footer, .new-section, .find-out {
+    flex-direction: column;
+  }
+
+  }
+
+  
+
